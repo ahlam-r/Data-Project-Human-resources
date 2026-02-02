@@ -1,2 +1,2 @@
 # test-project-1
-El departamento de RRHH quiere conocer en profundidad quiénes son los empleados y cómo se desempeñan dentro de la organización, con el objetivo de identificar oportunidades de crecimiento, formación y mejora continua.
+El proyecto analiza datos de empleados para detectar patrones, evaluar el desempeño y formular propuestas de mejora en ámbitos como formación, rendimiento y desarrollo profesional.
